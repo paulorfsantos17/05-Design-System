@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@prfs-ignite-ui/tokens'
 
 export const { styled, css, globalCss, keyframes, getCssText, theme } =
   createStitches({
