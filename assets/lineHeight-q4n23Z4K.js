@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as e}from"./index-COxJNofV.js";import{M as s}from"./index-D3XCRFWo.js";import{T as r}from"./TokensGrid-KS3qXPJS.js";import{l as m}from"./index-v4bgSY9J.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BeJbC5LD.js";import"../sb-preview/runtime.js";import"./index-UQvu9RDE.js";import"./index-D9uilScg.js";import"./index-oJaljHnC.js";import"./index-Dkj0J1ds.js";import"./index-8sIbGq5v.js";import"./index-DrFu-skq.js";function i(o){const n={h1:"h1",p:"p",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Line Heights"}),`
+`,t.jsx(n.h1,{id:"line-heights",children:"Line Heights"}),`
+`,t.jsx(n.p,{children:"Essas são as space utilizadas no ignite UI"}),`
+`,t.jsx(r,{tokens:m})]})}function H(o={}){const{wrapper:n}={...e(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(i,{...o})}):i(o)}export{H as default};

@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as s}from"./index-COxJNofV.js";import{M as r}from"./index-D3XCRFWo.js";import{T as e}from"./TokensGrid-KS3qXPJS.js";import{b as m}from"./index-v4bgSY9J.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BeJbC5LD.js";import"../sb-preview/runtime.js";import"./index-UQvu9RDE.js";import"./index-D9uilScg.js";import"./index-oJaljHnC.js";import"./index-Dkj0J1ds.js";import"./index-8sIbGq5v.js";import"./index-DrFu-skq.js";function i(o){const n={h1:"h1",p:"p",...s(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Tokens/Font Families"}),`
+`,t.jsx(n.h1,{id:"font-families",children:"Font Families"}),`
+`,t.jsx(n.p,{children:"Essas são as space utilizadas no ignite UI"}),`
+`,t.jsx(e,{tokens:m})]})}function T(o={}){const{wrapper:n}={...s(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(i,{...o})}):i(o)}export{T as default};
